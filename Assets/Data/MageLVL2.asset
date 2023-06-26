@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ffa6cbc5decaed42be14b1f46bcac32, type: 3}
+  m_Name: MageLVL2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1839304754744059133, guid: 982cd6d941caabe4bab017a4825948e6, type: 3}
+  cost: 250
+  sellPrice: 125
+  upgradeCost: 500
